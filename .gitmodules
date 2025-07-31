@@ -1,0 +1,9 @@
+[submodule "autism-web"]
+	path = autism-web
+	url = https://github.com/FathimathSahala-21/autism-web.git
+[submodule "autism-video"]
+	path = autism-video
+	url = https://github.com/FathimathSahala-21/autism-video.git
+[submodule "autism-flutter-part"]
+	path = autism-flutter-part
+	url = https://github.com/FathimathSahala-21/autism-flutter-part.git
